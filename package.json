@@ -1,0 +1,24 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "Build a package for Node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/said-alrove/jsnpm.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Nodejs",
+    "Package"
+  ],
+  "author": "Said Alejandro <saidmift@outlook.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/said-alrove/jsnpm/issues"
+  },
+  "homepage": "https://github.com/said-alrove/jsnpm#readme"
+}
