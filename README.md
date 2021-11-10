@@ -1,5 +1,5 @@
 # [**Node Package Manager**](https://www.npmjs.com)
-In this repository you'll find the entire process through learning how to use Npm thanks to the @gndx couse of Npm on the @platzi platform.
+In this repository you'll find the entire process through learning how to use Npm thanks to the **Oscar Barajas**' couse of Npm on the **Platzi** platform.
 
 ## **Table of contents**
 - [Installation of Node.js](#installation-of-node.js)
