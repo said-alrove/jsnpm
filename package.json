@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/said-alrove/jsnpm/issues"
   },
-  "homepage": "https://github.com/said-alrove/jsnpm#readme"
+  "homepage": "https://github.com/said-alrove/jsnpm#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.25.0"
+  }
 }
