@@ -75,5 +75,5 @@ When you're installing a dependency to use it into your project you have a varie
 Then we have the **peerDependencies** and **bundledDependencies** which have to be specified manually, in this case I'm not totally sure about how to explain them due to I couldn't understand them at all, this may be because I'm just starting to learn Npm, maybe in the future this will be clarified, by now I'll skip this part, for more information, as I mentioned above, you can check [the article about this topic](https://javascript.plainenglish.io/what-the-dependency-types-of-dependencies-in-a-node-js-application-explained-904a5424fbd3).
 
 ## **Resources**
-[Curso de Gestión de Dependencias y Paquetes con NPM](https://platzi.com/cursos/npm/)
-[Different types of dependencies in a Node.js application explained](https://javascript.plainenglish.io/what-the-dependency-types-of-dependencies-in-a-node-js-application-explained-904a5424fbd3)
+* [Curso de Gestión de Dependencias y Paquetes con NPM](https://platzi.com/cursos/npm/)
+* [Different types of dependencies in a Node.js application explained](https://javascript.plainenglish.io/what-the-dependency-types-of-dependencies-in-a-node-js-application-explained-904a5424fbd3)
