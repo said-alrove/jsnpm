@@ -26,5 +26,11 @@
   },
   "devDependencies": {
     "date-fns": "^2.25.0"
-  }
+  },
+  "optionalDependencies": {
+    "eslint": "^8.2.0"
+  },
+  "bundledDependencies": [
+    "postcss-cli", "tailwind"
+  ]
 }
