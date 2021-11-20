@@ -25,12 +25,17 @@
     "moment": "^2.29.1"
   },
   "devDependencies": {
-    "date-fns": "^2.25.0"
+    "date-fns": "^2.25.0",
+    "webpack": "^5.64.1"
   },
   "optionalDependencies": {
     "eslint": "^8.2.0"
   },
   "bundledDependencies": [
-    "postcss-cli", "tailwind"
-  ]
+    "postcss-cli",
+    "tailwind"
+  ],
+  "peerDependencies": {
+    "node": "^16.13.0"
+  }
 }
